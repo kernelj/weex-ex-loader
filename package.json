@@ -1,11 +1,11 @@
 {
   "_args": [
     [
-      "weex-ex-loader@0.1.0"
+      "weex-ex-loader@0.1.1"
     ]
   ],
   "_development": true,
-  "_from": "weex-ex-loader@0.1.0",
+  "_from": "weex-ex-loader@0.1.1",
   "_inBundle": false,
   "_integrity": "sha512-yCXevW901zJUrNOeCJYGejE7C4oCfpGnMia7Py9VqC4PEZFv8XjHYj8cZ32lSAR7W5EMwyO92CuhOdvDxrDT/w==",
   "_location": "/weex-ex-loader",
@@ -13,18 +13,18 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "weex-ex-loader@0.1.0",
+    "raw": "weex-ex-loader@0.1.1",
     "name": "weex-ex-loader",
     "escapedName": "weex-ex-loader",
-    "rawSpec": "0.1.0",
+    "rawSpec": "0.1.1",
     "saveSpec": null,
-    "fetchSpec": "0.1.0"
+    "fetchSpec": "0.1.1"
   },
   "_requiredBy": [
     "#DEV:/"
   ],
-  "_resolved": "https://registry.npmjs.org/weex-ex-loader/-/weex-ex-loader-0.1.0.tgz",
-  "_spec": "0.1.0",
+  "_resolved": "https://registry.npmjs.org/weex-ex-loader/-/weex-ex-loader-0.1.1.tgz",
+  "_spec": "0.1.1",
   "author": "kernelj <kernelj@gmail.com>",
   "babel": {
     "presets": [
@@ -47,8 +47,7 @@
     "weex-scripter": "^0.1.4",
     "weex-styler": "^0.1.2",
     "weex-templater": "^0.3.0",
-    "weex-transformer": "^0.4.2",
-    "weex-vue-loader": "^0.2.10"
+    "weex-transformer": "^0.4.2"
   },
   "description": "a webpack loader for weex",
   "devDependencies": {
@@ -89,7 +88,7 @@
     "lint": "eslint lib",
     "test": "eslint lib && mocha --slow 5000 --timeout 10000"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "directories": {
     "lib": "lib"
   },
